@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cf3d3c3-1672-4861-844f-19f332e93937" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="category.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/category.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+              <folding>
+                <element signature="e#996#1004#0#HTML" expanded="true" />
+                <element signature="e#1071#1079#0#HTML" expanded="true" />
+                <element signature="e#1135#1143#0#HTML" expanded="true" />
+                <element signature="e#1720#1769#0#HTML" expanded="true" />
+                <element signature="e#1998#2006#0#HTML" expanded="true" />
+                <element signature="e#2073#2081#0#HTML" expanded="true" />
+                <element signature="e#2137#2145#0#HTML" expanded="true" />
+                <element signature="e#2722#2771#0#HTML" expanded="true" />
+                <element signature="e#3000#3008#0#HTML" expanded="true" />
+                <element signature="e#3075#3083#0#HTML" expanded="true" />
+                <element signature="e#3139#3147#0#HTML" expanded="true" />
+                <element signature="e#3724#3772#0#HTML" expanded="true" />
+                <element signature="e#4001#4009#0#HTML" expanded="true" />
+                <element signature="e#4076#4084#0#HTML" expanded="true" />
+                <element signature="e#4140#4148#0#HTML" expanded="true" />
+                <element signature="e#4725#4773#0#HTML" expanded="true" />
+                <element signature="e#5002#5010#0#HTML" expanded="true" />
+                <element signature="e#5077#5085#0#HTML" expanded="true" />
+                <element signature="e#5141#5149#0#HTML" expanded="true" />
+                <element signature="e#5726#5774#0#HTML" expanded="true" />
+                <element signature="e#6003#6011#0#HTML" expanded="true" />
+                <element signature="e#6078#6086#0#HTML" expanded="true" />
+                <element signature="e#6142#6150#0#HTML" expanded="true" />
+                <element signature="e#6727#6775#0#HTML" expanded="true" />
+                <element signature="e#7004#7012#0#HTML" expanded="true" />
+                <element signature="e#7079#7087#0#HTML" expanded="true" />
+                <element signature="e#7143#7151#0#HTML" expanded="true" />
+                <element signature="e#7728#7776#0#HTML" expanded="true" />
+                <element signature="e#8005#8013#0#HTML" expanded="true" />
+                <element signature="e#8080#8088#0#HTML" expanded="true" />
+                <element signature="e#8144#8152#0#HTML" expanded="true" />
+                <element signature="e#8208#8216#0#HTML" expanded="true" />
+                <element signature="e#8793#8841#0#HTML" expanded="true" />
+                <element signature="e#9070#9078#0#HTML" expanded="true" />
+                <element signature="e#9145#9153#0#HTML" expanded="true" />
+                <element signature="e#9209#9217#0#HTML" expanded="true" />
+                <element signature="e#9968#9972#1#HTML" expanded="true" />
+                <element signature="e#10565#10569#1#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/wordify/wordify/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="388" lean-forward="true" selection-start-line="105" selection-end-line="391" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/about.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="153" column="42" selection-start-line="153" selection-start-column="42" selection-end-line="153" selection-end-column="42" />
+              <folding>
+                <element signature="e#2357#2406#0#HTML" expanded="true" />
+                <element signature="e#2635#2643#0#HTML" expanded="true" />
+                <element signature="e#2710#2718#0#HTML" expanded="true" />
+                <element signature="e#3250#3299#0#HTML" expanded="true" />
+                <element signature="e#3528#3536#0#HTML" expanded="true" />
+                <element signature="e#3603#3611#0#HTML" expanded="true" />
+                <element signature="e#4143#4192#0#HTML" expanded="true" />
+                <element signature="e#4421#4429#0#HTML" expanded="true" />
+                <element signature="e#4496#4504#0#HTML" expanded="true" />
+                <element signature="e#5036#5084#0#HTML" expanded="true" />
+                <element signature="e#5313#5321#0#HTML" expanded="true" />
+                <element signature="e#5388#5396#0#HTML" expanded="true" />
+                <element signature="e#5928#5976#0#HTML" expanded="true" />
+                <element signature="e#6205#6213#0#HTML" expanded="true" />
+                <element signature="e#6280#6288#0#HTML" expanded="true" />
+                <element signature="e#6820#6868#0#HTML" expanded="true" />
+                <element signature="e#7097#7105#0#HTML" expanded="true" />
+                <element signature="e#7172#7180#0#HTML" expanded="true" />
+                <element signature="e#7712#7760#0#HTML" expanded="true" />
+                <element signature="e#7989#7997#0#HTML" expanded="true" />
+                <element signature="e#8064#8072#0#HTML" expanded="true" />
+                <element signature="e#8604#8652#0#HTML" expanded="true" />
+                <element signature="e#8881#8889#0#HTML" expanded="true" />
+                <element signature="e#8956#8964#0#HTML" expanded="true" />
+                <element signature="e#9496#9544#0#HTML" expanded="true" />
+                <element signature="e#9773#9781#0#HTML" expanded="true" />
+                <element signature="e#9848#9856#0#HTML" expanded="true" />
+                <element signature="e#10602#10606#1#HTML" expanded="true" />
+                <element signature="e#11199#11203#1#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/layout.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="688">
+              <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AboutController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AboutController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoryController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/blog.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3090">
+              <caret line="224" column="63" selection-start-line="224" selection-start-column="63" selection-end-line="224" selection-end-column="63" />
+              <folding>
+                <element signature="e#510#518#0#HTML" expanded="true" />
+                <element signature="e#585#593#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BlogController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog-single.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/wordify/wordify/blog-single.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="418" column="24" lean-forward="true" selection-start-line="104" selection-end-line="418" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>src=&quot;images</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>src=&quot;/asset/images</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/LayoutController.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/contact.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ContactController.php" />
+        <option value="$PROJECT_DIR$/resources/views/category.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" />
+        <option value="$PROJECT_DIR$/resources/views/blog.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AboutController.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/about.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="190" />
+    <option name="y" value="871" />
+    <option name="width" value="1016" />
+    <option name="height" value="576" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Wodify_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wodify_blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wodify_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wodify_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wodify_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wodify_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wodify_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wodify_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wodify_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wodify_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wodify_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wodify_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wodify_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wodify_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wodify_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wodify_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/asset" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf3d3c3-1672-4861-844f-19f332e93937" name="Default" comment="" />
+      <created>1602946582014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602946582014</updated>
+      <workItem from="1602946584069" duration="883000" />
+      <workItem from="1602957591037" duration="6402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7285000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="767" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286385" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/wordify/wordify/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7995">
+          <caret line="533" column="7" selection-start-line="533" selection-start-column="7" selection-end-line="533" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ContactController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/asset/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6915">
+          <caret line="461" column="67" selection-start-line="461" selection-start-column="67" selection-end-line="461" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5706#5714#0#HTML" expanded="true" />
+            <element signature="e#5797#5805#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6820#6828#0#HTML" expanded="true" />
+            <element signature="e#6911#6919#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#7934#7942#0#HTML" expanded="true" />
+            <element signature="e#8025#8033#0#HTML" expanded="true" />
+            <element signature="e#9549#9557#0#HTML" expanded="true" />
+            <element signature="e#9640#9648#0#HTML" expanded="true" />
+            <element signature="e#10505#10513#0#HTML" expanded="true" />
+            <element signature="e#10596#10604#0#HTML" expanded="true" />
+            <element signature="e#11462#11470#0#HTML" expanded="true" />
+            <element signature="e#11553#11561#0#HTML" expanded="true" />
+            <element signature="e#12418#12426#0#HTML" expanded="true" />
+            <element signature="e#12509#12517#0#HTML" expanded="true" />
+            <element signature="e#13375#13383#0#HTML" expanded="true" />
+            <element signature="e#13466#13474#0#HTML" expanded="true" />
+            <element signature="e#14332#14340#0#HTML" expanded="true" />
+            <element signature="e#14423#14431#0#HTML" expanded="true" />
+            <element signature="e#15290#15298#0#HTML" expanded="true" />
+            <element signature="e#15381#15389#0#HTML" expanded="true" />
+            <element signature="e#16247#16255#0#HTML" expanded="true" />
+            <element signature="e#16338#16346#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/wordify/wordify/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7995">
+          <caret line="533" column="7" selection-start-line="533" selection-start-column="7" selection-end-line="533" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/asset/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LayoutController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555">
+          <caret line="110" column="38" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5706#5714#0#HTML" expanded="true" />
+            <element signature="e#5797#5805#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6820#6828#0#HTML" expanded="true" />
+            <element signature="e#6911#6919#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#7934#7942#0#HTML" expanded="true" />
+            <element signature="e#8025#8033#0#HTML" expanded="true" />
+            <element signature="e#9549#9557#0#HTML" expanded="true" />
+            <element signature="e#9640#9648#0#HTML" expanded="true" />
+            <element signature="e#10505#10513#0#HTML" expanded="true" />
+            <element signature="e#10596#10604#0#HTML" expanded="true" />
+            <element signature="e#11462#11470#0#HTML" expanded="true" />
+            <element signature="e#11553#11561#0#HTML" expanded="true" />
+            <element signature="e#12418#12426#0#HTML" expanded="true" />
+            <element signature="e#12509#12517#0#HTML" expanded="true" />
+            <element signature="e#13375#13383#0#HTML" expanded="true" />
+            <element signature="e#13466#13474#0#HTML" expanded="true" />
+            <element signature="e#14332#14340#0#HTML" expanded="true" />
+            <element signature="e#14423#14431#0#HTML" expanded="true" />
+            <element signature="e#15290#15298#0#HTML" expanded="true" />
+            <element signature="e#15381#15389#0#HTML" expanded="true" />
+            <element signature="e#16247#16255#0#HTML" expanded="true" />
+            <element signature="e#16338#16346#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/wordify/wordify/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="243" column="30" selection-start-line="105" selection-end-line="254" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ContactController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="59" selection-start-line="111" selection-start-column="59" selection-end-line="111" selection-end-column="59" />
+          <folding>
+            <element signature="e#4235#4243#0#HTML" expanded="true" />
+            <element signature="e#5011#5019#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/wordify/wordify/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="392" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/category.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding>
+            <element signature="e#996#1004#0#HTML" expanded="true" />
+            <element signature="e#1071#1079#0#HTML" expanded="true" />
+            <element signature="e#1135#1143#0#HTML" expanded="true" />
+            <element signature="e#1720#1769#0#HTML" expanded="true" />
+            <element signature="e#1998#2006#0#HTML" expanded="true" />
+            <element signature="e#2073#2081#0#HTML" expanded="true" />
+            <element signature="e#2137#2145#0#HTML" expanded="true" />
+            <element signature="e#2722#2771#0#HTML" expanded="true" />
+            <element signature="e#3000#3008#0#HTML" expanded="true" />
+            <element signature="e#3075#3083#0#HTML" expanded="true" />
+            <element signature="e#3139#3147#0#HTML" expanded="true" />
+            <element signature="e#3724#3772#0#HTML" expanded="true" />
+            <element signature="e#4001#4009#0#HTML" expanded="true" />
+            <element signature="e#4076#4084#0#HTML" expanded="true" />
+            <element signature="e#4140#4148#0#HTML" expanded="true" />
+            <element signature="e#4725#4773#0#HTML" expanded="true" />
+            <element signature="e#5002#5010#0#HTML" expanded="true" />
+            <element signature="e#5077#5085#0#HTML" expanded="true" />
+            <element signature="e#5141#5149#0#HTML" expanded="true" />
+            <element signature="e#5726#5774#0#HTML" expanded="true" />
+            <element signature="e#6003#6011#0#HTML" expanded="true" />
+            <element signature="e#6078#6086#0#HTML" expanded="true" />
+            <element signature="e#6142#6150#0#HTML" expanded="true" />
+            <element signature="e#6727#6775#0#HTML" expanded="true" />
+            <element signature="e#7004#7012#0#HTML" expanded="true" />
+            <element signature="e#7079#7087#0#HTML" expanded="true" />
+            <element signature="e#7143#7151#0#HTML" expanded="true" />
+            <element signature="e#7728#7776#0#HTML" expanded="true" />
+            <element signature="e#8005#8013#0#HTML" expanded="true" />
+            <element signature="e#8080#8088#0#HTML" expanded="true" />
+            <element signature="e#8144#8152#0#HTML" expanded="true" />
+            <element signature="e#8208#8216#0#HTML" expanded="true" />
+            <element signature="e#8793#8841#0#HTML" expanded="true" />
+            <element signature="e#9070#9078#0#HTML" expanded="true" />
+            <element signature="e#9145#9153#0#HTML" expanded="true" />
+            <element signature="e#9209#9217#0#HTML" expanded="true" />
+            <element signature="e#9968#9972#1#HTML" expanded="true" />
+            <element signature="e#10565#10569#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/wordify/wordify/blog-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="418" column="24" lean-forward="true" selection-start-line="104" selection-end-line="418" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/blog.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="224" column="63" selection-start-line="224" selection-start-column="63" selection-end-line="224" selection-end-column="63" />
+          <folding>
+            <element signature="e#510#518#0#HTML" expanded="true" />
+            <element signature="e#585#593#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BlogController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AboutController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/wordify/wordify/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="388" lean-forward="true" selection-start-line="105" selection-end-line="391" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/about.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="153" column="42" selection-start-line="153" selection-start-column="42" selection-end-line="153" selection-end-column="42" />
+          <folding>
+            <element signature="e#2357#2406#0#HTML" expanded="true" />
+            <element signature="e#2635#2643#0#HTML" expanded="true" />
+            <element signature="e#2710#2718#0#HTML" expanded="true" />
+            <element signature="e#3250#3299#0#HTML" expanded="true" />
+            <element signature="e#3528#3536#0#HTML" expanded="true" />
+            <element signature="e#3603#3611#0#HTML" expanded="true" />
+            <element signature="e#4143#4192#0#HTML" expanded="true" />
+            <element signature="e#4421#4429#0#HTML" expanded="true" />
+            <element signature="e#4496#4504#0#HTML" expanded="true" />
+            <element signature="e#5036#5084#0#HTML" expanded="true" />
+            <element signature="e#5313#5321#0#HTML" expanded="true" />
+            <element signature="e#5388#5396#0#HTML" expanded="true" />
+            <element signature="e#5928#5976#0#HTML" expanded="true" />
+            <element signature="e#6205#6213#0#HTML" expanded="true" />
+            <element signature="e#6280#6288#0#HTML" expanded="true" />
+            <element signature="e#6820#6868#0#HTML" expanded="true" />
+            <element signature="e#7097#7105#0#HTML" expanded="true" />
+            <element signature="e#7172#7180#0#HTML" expanded="true" />
+            <element signature="e#7712#7760#0#HTML" expanded="true" />
+            <element signature="e#7989#7997#0#HTML" expanded="true" />
+            <element signature="e#8064#8072#0#HTML" expanded="true" />
+            <element signature="e#8604#8652#0#HTML" expanded="true" />
+            <element signature="e#8881#8889#0#HTML" expanded="true" />
+            <element signature="e#8956#8964#0#HTML" expanded="true" />
+            <element signature="e#9496#9544#0#HTML" expanded="true" />
+            <element signature="e#9773#9781#0#HTML" expanded="true" />
+            <element signature="e#9848#9856#0#HTML" expanded="true" />
+            <element signature="e#10602#10606#1#HTML" expanded="true" />
+            <element signature="e#11199#11203#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
