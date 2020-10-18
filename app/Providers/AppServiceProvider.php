@@ -13,7 +13,8 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        //registering for heroku database deployment
+        Schema::defaultStringLength(191);
     }
 
     /**
